@@ -1,0 +1,79 @@
+@font-face {
+    font-family: TheLastOfUsExtreme;
+    src: url(./font/TheLastOfUsExtreme.ttf);
+}
+
+#logoNaught {
+    position: absolute;
+    width: 177px;
+    height: 28px;
+    left: 81px;
+    top: 42px;
+
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    border-top: 80px;
+    animation-timing-function: linear;
+}
+
+.texto-principal {
+
+    position: absolute;
+    width: 607px;
+    height: 2px;
+    left: 197px;
+    top: 450px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+
+}
+
+#texto {
+    position: absolute;
+    width: 549px;
+    height: 50px;
+    left: 197px;
+    top: 200px;
+
+    font-family: TheLastOfUsExtreme;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 115px;
+
+    color: #FFFFFF;
+}
+
+.nav {
+    font-family: TheLastOfUsExtreme;
+    align-content: 80%;
+    position: absolute;
+    width: 600px;
+    height: 800px;
+    left: 500px;
+    justify-content: space-between;
+    top: 40px;
+    font-size: 200%;
+    color: #FFFFFF;
+
+
+}
+
+.buttons {
+
+    position: absolute;
+    width: 443px;
+    height: 61px;
+    left: 197px;
+    top: 550px;
+    font-family: 'Heebo';
+
+}
